@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.component-container {
+  margin-top: 20px;
+  padding: 20px;
+  border-top: 1px solid #ddd;
+}

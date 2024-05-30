@@ -1,0 +1,34 @@
+.complete-container{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: brown;
+    width: 50vh;
+    height: 50vh;
+    border-radius: 10px;
+}
+h2{
+    color: #fff;
+}
+input{
+    padding: 8px 20px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    margin-top: 10px;
+}
+ul{
+    margin-top: 20px;
+
+    margin-right: 40px;
+}
+ul li{
+    color: #fff;
+   
+    margin-top: 10px;
+}

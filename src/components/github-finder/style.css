@@ -1,0 +1,65 @@
+.container {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1000px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .search-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-container input {
+    padding: 8px 30px;
+    font-size: 16px;
+    font-size: 14px;
+    border-radius: 16px;
+    outline: none;
+  }
+  
+  .search-container button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 16px;
+    background-color: #0045f4;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .user{
+      padding: 15px;
+      border-radius: 10px;
+      border: 1px solid;
+  }
+  
+  .avatar{
+      height: 150px;
+      aspect-ratio: 1/1;
+      border-radius: 50%;
+  }
+  
+  
+  .name-container{
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      margin-top: 20px;
+  }
+  
+  .name-container p{
+      margin: 0px;
+      font-size: 20px;
+      font-weight: bold;
+  }
+  
+  .profile-info div{
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      font-size: 20px;
+      font-weight: bold;
+  }

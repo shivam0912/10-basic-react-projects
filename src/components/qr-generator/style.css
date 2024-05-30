@@ -1,0 +1,31 @@
+
+.container{
+   background-color: #ccc;
+   padding: 100px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   border-radius: 20px;
+   
+}
+input{
+    padding: 10px 30px;
+    border-radius: 20px;
+    outline: none;
+    margin-bottom: 50px;
+    font-size: 16px;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: rgb(51, 78, 184);
+    color: #fff;
+    font-size: 16px;
+    border-radius: 20px;
+    cursor: pointer;
+}
