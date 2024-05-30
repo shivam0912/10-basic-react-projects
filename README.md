@@ -1,5 +1,5 @@
 # React + Vite
-
+In this repository, you will find 10 basic react projects that will help you to brushup your React skill
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
